@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 4b9ae347d8d99024eb5086b65fbc6c25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4147127743859912173
+    second: saldirma_0
+  - first:
+      213: 8873356388265881642
+    second: saldirma_1
+  - first:
+      213: -7699438967815514464
+    second: saldirma_2
+  - first:
+      213: 8218911472858978655
+    second: saldirma_3
+  - first:
+      213: 1860985789885571050
+    second: saldirma_4
+  - first:
+      213: -1108284774838011404
+    second: saldirma_5
+  - first:
+      213: 814868736469506714
+    second: saldirma_6
+  - first:
+      213: 9010545957169941367
+    second: saldirma_7
+  - first:
+      213: 4684794361335300817
+    second: saldirma_8
+  - first:
+      213: -8506475825262489571
+    second: saldirma_9
+  - first:
+      213: -1549539851423578840
+    second: saldirma_10
+  - first:
+      213: 7410693175059187407
+    second: saldirma_11
+  - first:
+      213: 4846990325401607078
+    second: saldirma_12
+  - first:
+      213: -8484424730490677783
+    second: saldirma_13
+  - first:
+      213: -8273325265489199572
+    second: saldirma_14
+  - first:
+      213: -8545413380504979624
+    second: saldirma_15
+  - first:
+      213: 6369216385188283807
+    second: saldirma_16
+  - first:
+      213: -7203657581498136638
+    second: saldirma_17
+  - first:
+      213: 6853727679264810203
+    second: saldirma_18
+  - first:
+      213: -7304816147745942468
+    second: saldirma_19
+  - first:
+      213: 4203555020896152677
+    second: saldirma_20
+  - first:
+      213: 8379006979978352094
+    second: saldirma_21
+  - first:
+      213: -5316089556537763597
+    second: saldirma_22
+  - first:
+      213: 6657440306155991449
+    second: saldirma_23
+  - first:
+      213: 991898171228483426
+    second: saldirma_24
+  - first:
+      213: -4974655763524737584
+    second: saldirma_25
+  - first:
+      213: 4700567775303686163
+    second: saldirma_26
+  - first:
+      213: -647084590605523598
+    second: saldirma_27
+  - first:
+      213: 5897080313666560523
+    second: saldirma_28
+  - first:
+      213: -3334959607445701071
+    second: saldirma_29
+  - first:
+      213: 8287400449573283425
+    second: saldirma_30
+  - first:
+      213: -5394607172120101177
+    second: saldirma_31
+  - first:
+      213: -4248782059242484968
+    second: saldirma_32
+  - first:
+      213: 8682768737812933667
+    second: saldirma_33
+  - first:
+      213: -660121701116575772
+    second: saldirma_34
+  - first:
+      213: -4141688459697966018
+    second: saldirma_35
+  - first:
+      213: 1146258038686044913
+    second: saldirma_36
+  - first:
+      213: 7400536036386848425
+    second: saldirma_37
+  - first:
+      213: -1200186710762177834
+    second: saldirma_38
+  - first:
+      213: 4953966581673021354
+    second: saldirma_39
+  - first:
+      213: 2087146642299640570
+    second: saldirma_40
+  - first:
+      213: -2563076875320081148
+    second: saldirma_41
+  - first:
+      213: 4845265889780105384
+    second: saldirma_42
+  - first:
+      213: -5131770190850757271
+    second: saldirma_43
+  - first:
+      213: -8469007193474783401
+    second: saldirma_44
+  - first:
+      213: 5690885924057880310
+    second: saldirma_45
+  - first:
+      213: 2382965571418319335
+    second: saldirma_46
+  - first:
+      213: 8488111589561662457
+    second: saldirma_47
+  - first:
+      213: 7052560346668721967
+    second: saldirma_48
+  - first:
+      213: 2864392568484515576
+    second: saldirma_49
+  - first:
+      213: -4194523490278514757
+    second: saldirma_50
+  - first:
+      213: -6611940169753001836
+    second: saldirma_51
+  - first:
+      213: 6836674133846520150
+    second: saldirma_52
+  - first:
+      213: 5904511215622447481
+    second: saldirma_53
+  - first:
+      213: -6596980057809600349
+    second: saldirma_54
+  - first:
+      213: 6396419109742980713
+    second: saldirma_55
+  - first:
+      213: 8027714930044174900
+    second: saldirma_56
+  - first:
+      213: -5650141966738774990
+    second: saldirma_57
+  - first:
+      213: -8259669146046063620
+    second: saldirma_58
+  - first:
+      213: 5916366944918602690
+    second: saldirma_59
+  - first:
+      213: -2759739336776429
+    second: saldirma_60
+  - first:
+      213: -7296105122192038204
+    second: saldirma_61
+  - first:
+      213: -2193440535233877801
+    second: saldirma_62
+  - first:
+      213: -9063233134143952543
+    second: saldirma_63
+  - first:
+      213: 2353584245987121737
+    second: saldirma_64
+  - first:
+      213: 4106614543875309500
+    second: saldirma_65
+  - first:
+      213: 6176833103648554377
+    second: saldirma_66
+  - first:
+      213: -206849742376583888
+    second: saldirma_67
+  - first:
+      213: -4321840997103530428
+    second: saldirma_68
+  - first:
+      213: 8297941399172437162
+    second: saldirma_69
+  - first:
+      213: 474727809891871625
+    second: saldirma_70
+  - first:
+      213: 6420973184330921764
+    second: saldirma_71
+  - first:
+      213: 2848331897158439250
+    second: saldirma_72
+  - first:
+      213: -7833821958245675319
+    second: saldirma_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saldirma_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedefeae5be8d8930800000000000000
+      internalID: 4147127743859912173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20f7004f9e742b70800000000000000
+      internalID: 8873356388265881642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a65e895d09162590800000000000000
+      internalID: -7699438967815514464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59542c50707f0270800000000000000
+      internalID: 8218911472858978655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefdd2a47bc83d910800000000000000
+      internalID: 1860985789885571050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f97ec58ed49e90f0800000000000000
+      internalID: -1108284774838011404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a16d76ccefe4b00800000000000000
+      internalID: 814868736469506714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4271eec3eb0d70800000000000000
+      internalID: 9010545957169941367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2c42986abb30140800000000000000
+      internalID: 4684794361335300817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1018c06e4de2f980800000000000000
+      internalID: -8506475825262489571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825069607bdee7ae0800000000000000
+      internalID: -1549539851423578840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc680dedd2218d660800000000000000
+      internalID: 7410693175059187407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab515f3508f34340800000000000000
+      internalID: 4846990325401607078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55097f8a4414a80800000000000000
+      internalID: -8484424730490677783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e7047418e3f2d80800000000000000
+      internalID: -8273325265489199572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85771245ec7986980800000000000000
+      internalID: -8545413380504979624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ceb88e80046850800000000000000
+      internalID: 6369216385188283807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70143a897770c90800000000000000
+      internalID: -7203657581498136638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd467ddf2055d1f50800000000000000
+      internalID: 6853727679264810203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34d01c8a6410aa90800000000000000
+      internalID: -7304816147745942468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c23562507065a30800000000000000
+      internalID: 4203555020896152677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d0245476384470800000000000000
+      internalID: 8379006979978352094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f81764d6b47936b0800000000000000
+      internalID: -5316089556537763597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_23
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991bbc19faaf36c50800000000000000
+      internalID: 6657440306155991449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fee65a12ee3cd00800000000000000
+      internalID: 991898171228483426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5224f90f876fab0800000000000000
+      internalID: -4974655763524737584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318df99ac75cb3140800000000000000
+      internalID: 4700567775303686163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27524554ef71507f0800000000000000
+      internalID: -647084590605523598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026b0c1d43a6d150800000000000000
+      internalID: 5897080313666560523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e3ce908e7d7b1d0800000000000000
+      internalID: -3334959607445701071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1666a34ecc2c20370800000000000000
+      internalID: 8287400449573283425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb10bdb518225b0800000000000000
+      internalID: -5394607172120101177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8cc66a3b4905c0800000000000000
+      internalID: -4248782059242484968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ce43ce9246f7870800000000000000
+      internalID: 8682768737812933667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef7b607fc6c6d6f0800000000000000
+      internalID: -660121701116575772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e343e5d1a44c586c0800000000000000
+      internalID: -4141688459697966018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f251d0fc9358ef00800000000000000
+      internalID: 1146258038686044913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb05cb05cf3b660800000000000000
+      internalID: 7400536036386848425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da30e0ab84185fe0800000000000000
+      internalID: -1200186710762177834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc6c9db5600c440800000000000000
+      internalID: 4953966581673021354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa5b6020d807fc10800000000000000
+      internalID: 2087146642299640570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4054782692f1e6cd0800000000000000
+      internalID: -2563076875320081148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a009aac7a7dd3340800000000000000
+      internalID: 4845265889780105384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96de661633a48c8b0800000000000000
+      internalID: -5131770190850757271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75725b804da087a80800000000000000
+      internalID: -8469007193474783401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69db8a8961afe40800000000000000
+      internalID: 5690885924057880310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ef5ccf8ef11120800000000000000
+      internalID: 2382965571418319335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbf2bdc484dbc570800000000000000
+      internalID: 8488111589561662457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27e13ce44abfd160800000000000000
+      internalID: 7052560346668721967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec9c56ddd50c720800000000000000
+      internalID: 2864392568484515576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfdaefeb1f0ac5c0800000000000000
+      internalID: -4194523490278514757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908cb9727bad34a0800000000000000
+      internalID: -6611940169753001836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_52
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f50907eeb0ee50800000000000000
+      internalID: 6836674133846520150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716c7bcaa901f150800000000000000
+      internalID: 5904511215622447481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04ce7f691d274a0800000000000000
+      internalID: -6596980057809600349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e20c66a45a4c850800000000000000
+      internalID: 6396419109742980713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432026b323c286f60800000000000000
+      internalID: 8027714930044174900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234220621d9a691b0800000000000000
+      internalID: -5650141966738774990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb9bab5ca2cf5d80800000000000000
+      internalID: -8259669146046063620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38cb0e3682b1250800000000000000
+      internalID: 5916366944918602690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315a82d180236fff0800000000000000
+      internalID: -2759739336776429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e5db3c070fba90800000000000000
+      internalID: -7296105122192038204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8217d54755f81e0800000000000000
+      internalID: -2193440535233877801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169accacb7de83280800000000000000
+      internalID: -9063233134143952543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a9403e66c99a020800000000000000
+      internalID: 2353584245987121737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbff32d7b20adf830800000000000000
+      internalID: 4106614543875309500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d78d34bf488b550800000000000000
+      internalID: 6176833103648554377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d33c7514f112df0800000000000000
+      internalID: -206849742376583888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8cefd28cb504c0800000000000000
+      internalID: -4321840997103530428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45ea8fcb5382370800000000000000
+      internalID: 8297941399172437162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98baa998d62969600800000000000000
+      internalID: 474727809891871625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4277a546711eb1950800000000000000
+      internalID: 6420973184330921764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2511b84f4ce478720800000000000000
+      internalID: 2848331897158439250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saldirma_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8c113f6ca84390800000000000000
+      internalID: -7833821958245675319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

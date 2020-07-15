@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 3f2aa560a88eeae45be3d39b8a01a0dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1817547453260652418
+    second: yurume_0
+  - first:
+      213: -6107464169459298131
+    second: yurume_1
+  - first:
+      213: -5185591618045379301
+    second: yurume_2
+  - first:
+      213: -4823187094349252567
+    second: yurume_3
+  - first:
+      213: 6311320059555846722
+    second: yurume_4
+  - first:
+      213: -3191875427854639752
+    second: yurume_5
+  - first:
+      213: -3589430288317627807
+    second: yurume_6
+  - first:
+      213: 77320350445991991
+    second: yurume_7
+  - first:
+      213: -5342266743661410350
+    second: yurume_8
+  - first:
+      213: 3911414056994427559
+    second: yurume_9
+  - first:
+      213: 7060168377760984350
+    second: yurume_10
+  - first:
+      213: 8943393700740104592
+    second: yurume_11
+  - first:
+      213: -7274990325110155775
+    second: yurume_12
+  - first:
+      213: -952904332321289943
+    second: yurume_13
+  - first:
+      213: -2132619359625991590
+    second: yurume_14
+  - first:
+      213: -7394880263650682095
+    second: yurume_15
+  - first:
+      213: -3622890530724955680
+    second: yurume_16
+  - first:
+      213: 6539200732937564243
+    second: yurume_17
+  - first:
+      213: -1618081380133831103
+    second: yurume_18
+  - first:
+      213: -9211008606872552780
+    second: yurume_19
+  - first:
+      213: 919814719912299510
+    second: yurume_20
+  - first:
+      213: 5894255663252766043
+    second: yurume_21
+  - first:
+      213: 4584155404678589123
+    second: yurume_22
+  - first:
+      213: 5816999094805019006
+    second: yurume_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yurume_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70abf59836c6c6e0800000000000000
+      internalID: -1817547453260652418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d3f452bded3ba0800000000000000
+      internalID: -6107464169459298131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7928d5e31908b0800000000000000
+      internalID: -5185591618045379301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928701c54e8901db0800000000000000
+      internalID: -4823187094349252567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a9f95c720569750800000000000000
+      internalID: 6311320059555846722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1d6ba53e24b3d0800000000000000
+      internalID: -3191875427854639752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162ccce9b28cf2ec0800000000000000
+      internalID: -3589430288317627807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738fd36f272b21100800000000000000
+      internalID: 77320350445991991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7cda083b47cd5b0800000000000000
+      internalID: -5342266743661410350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a25f9c7c52284630800000000000000
+      internalID: 3911414056994427559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1da3e2bbb1caf160800000000000000
+      internalID: 7060168377760984350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091841bcf215d1c70800000000000000
+      internalID: 8943393700740104592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d76708da0a0b90800000000000000
+      internalID: -7274990325110155775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290f07fe8a96c2f0800000000000000
+      internalID: -952904332321289943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a2f54ddf96762e0800000000000000
+      internalID: -2132619359625991590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdd88749b106990800000000000000
+      internalID: -7394880263650682095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93308d148e8bdc0800000000000000
+      internalID: -3622890530724955680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350b7b1ab68efba50800000000000000
+      internalID: 6539200732937564243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef277ce8b6b89e0800000000000000
+      internalID: -1618081380133831103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4babb4c597ceb2080800000000000000
+      internalID: -9211008606872552780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb4c874d96d3cc00800000000000000
+      internalID: 919814719912299510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5df38feb4a9cc150800000000000000
+      internalID: 5894255663252766043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caed0b7d013e9f30800000000000000
+      internalID: 4584155404678589123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yurume_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793f906bd12ab050800000000000000
+      internalID: 5816999094805019006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

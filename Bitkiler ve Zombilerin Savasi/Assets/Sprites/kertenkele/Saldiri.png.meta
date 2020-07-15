@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: 648a74c4e5c5d6d47a9b2c1565bb0091
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3257400482541764291
+    second: Saldiri_0
+  - first:
+      213: 5336333513033948736
+    second: Saldiri_1
+  - first:
+      213: -189199061447834973
+    second: Saldiri_2
+  - first:
+      213: 1120681642180709835
+    second: Saldiri_3
+  - first:
+      213: 3588099087411904115
+    second: Saldiri_4
+  - first:
+      213: 8382915752857969735
+    second: Saldiri_5
+  - first:
+      213: -1039363742252836452
+    second: Saldiri_6
+  - first:
+      213: -6506664152007526606
+    second: Saldiri_7
+  - first:
+      213: 5373710435027132652
+    second: Saldiri_8
+  - first:
+      213: 8758979377530873827
+    second: Saldiri_9
+  - first:
+      213: 3895761800107025148
+    second: Saldiri_10
+  - first:
+      213: -168282494308700595
+    second: Saldiri_11
+  - first:
+      213: 8109043728151561071
+    second: Saldiri_12
+  - first:
+      213: -4128337153300934017
+    second: Saldiri_13
+  - first:
+      213: 5303629688096834121
+    second: Saldiri_14
+  - first:
+      213: 8051429265771845859
+    second: Saldiri_15
+  - first:
+      213: -4788952026155791192
+    second: Saldiri_16
+  - first:
+      213: -4903854035036233815
+    second: Saldiri_17
+  - first:
+      213: -7861182448499404109
+    second: Saldiri_18
+  - first:
+      213: 8542435419513111852
+    second: Saldiri_19
+  - first:
+      213: 7880905496192393864
+    second: Saldiri_20
+  - first:
+      213: 781149401785221535
+    second: Saldiri_21
+  - first:
+      213: -2554377046498510454
+    second: Saldiri_22
+  - first:
+      213: 3607570030514209894
+    second: Saldiri_23
+  - first:
+      213: 3076448009422609499
+    second: Saldiri_24
+  - first:
+      213: -8357222456295151528
+    second: Saldiri_25
+  - first:
+      213: -6557624427492920740
+    second: Saldiri_26
+  - first:
+      213: -6677293576613090266
+    second: Saldiri_27
+  - first:
+      213: -8634533095971238988
+    second: Saldiri_28
+  - first:
+      213: -5290383204941038124
+    second: Saldiri_29
+  - first:
+      213: -2703674704359037066
+    second: Saldiri_30
+  - first:
+      213: 5569734355274144718
+    second: Saldiri_31
+  - first:
+      213: -6467542228068095935
+    second: Saldiri_32
+  - first:
+      213: -7430677789709869167
+    second: Saldiri_33
+  - first:
+      213: -8379156868290022879
+    second: Saldiri_34
+  - first:
+      213: -4983120439910386809
+    second: Saldiri_35
+  - first:
+      213: -4798418815727599800
+    second: Saldiri_36
+  - first:
+      213: 6444989573418895914
+    second: Saldiri_37
+  - first:
+      213: -7002122302601966431
+    second: Saldiri_38
+  - first:
+      213: 4785262841786844989
+    second: Saldiri_39
+  - first:
+      213: -962435132989066877
+    second: Saldiri_40
+  - first:
+      213: 2155716304451612921
+    second: Saldiri_41
+  - first:
+      213: -7853353800988250567
+    second: Saldiri_42
+  - first:
+      213: -5579900293619550231
+    second: Saldiri_43
+  - first:
+      213: -5456452495047645358
+    second: Saldiri_44
+  - first:
+      213: -7551224430699134061
+    second: Saldiri_45
+  - first:
+      213: -1735531723305326195
+    second: Saldiri_46
+  - first:
+      213: 224771193784911449
+    second: Saldiri_47
+  - first:
+      213: -7344834243393827215
+    second: Saldiri_48
+  - first:
+      213: -8999165735555132680
+    second: Saldiri_49
+  - first:
+      213: -740007892571546520
+    second: Saldiri_50
+  - first:
+      213: 6658738293008714347
+    second: Saldiri_51
+  - first:
+      213: 4284953621586549543
+    second: Saldiri_52
+  - first:
+      213: -7989667660713486980
+    second: Saldiri_53
+  - first:
+      213: -5734051949261145994
+    second: Saldiri_54
+  - first:
+      213: -4824335114100459980
+    second: Saldiri_55
+  - first:
+      213: -951214496139516651
+    second: Saldiri_56
+  - first:
+      213: -1714381660410075535
+    second: Saldiri_57
+  - first:
+      213: 2088304034480474378
+    second: Saldiri_58
+  - first:
+      213: -2990262857882067971
+    second: Saldiri_59
+  - first:
+      213: 2285568751882805649
+    second: Saldiri_60
+  - first:
+      213: 7111359494230112274
+    second: Saldiri_61
+  - first:
+      213: -539337070136923652
+    second: Saldiri_62
+  - first:
+      213: 7976171054478197960
+    second: Saldiri_63
+  - first:
+      213: -3272861882197775296
+    second: Saldiri_64
+  - first:
+      213: -21746707287610149
+    second: Saldiri_65
+  - first:
+      213: -5345133234213448805
+    second: Saldiri_66
+  - first:
+      213: 5507359487271922721
+    second: Saldiri_67
+  - first:
+      213: -8999109313398077232
+    second: Saldiri_68
+  - first:
+      213: -4173011948561197759
+    second: Saldiri_69
+  - first:
+      213: 1436015695737871025
+    second: Saldiri_70
+  - first:
+      213: 8429514504855971084
+    second: Saldiri_71
+  - first:
+      213: 6861122383336249266
+    second: Saldiri_72
+  - first:
+      213: 732747489470258576
+    second: Saldiri_73
+  - first:
+      213: 2750330785262138108
+    second: Saldiri_74
+  - first:
+      213: 5688545580096349919
+    second: Saldiri_75
+  - first:
+      213: -7113136356132334304
+    second: Saldiri_76
+  - first:
+      213: 9071499086114680364
+    second: Saldiri_77
+  - first:
+      213: 4263402517577607709
+    second: Saldiri_78
+  - first:
+      213: 3139969196935942728
+    second: Saldiri_79
+  - first:
+      213: -4875196531635735794
+    second: Saldiri_80
+  - first:
+      213: 8047487326250528458
+    second: Saldiri_81
+  - first:
+      213: 6078349986815819630
+    second: Saldiri_82
+  - first:
+      213: -5847451154180197239
+    second: Saldiri_83
+  - first:
+      213: 2739762991176154002
+    second: Saldiri_84
+  - first:
+      213: 2592747424879290266
+    second: Saldiri_85
+  - first:
+      213: -1907141871102036471
+    second: Saldiri_86
+  - first:
+      213: -3211506875409661439
+    second: Saldiri_87
+  - first:
+      213: -4896122713299146253
+    second: Saldiri_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saldiri_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 950
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce761dfa7c943d20800000000000000
+      internalID: 3257400482541764291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 950
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e96679e077e0a40800000000000000
+      internalID: 5336333513033948736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 950
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2809eb474df5df0800000000000000
+      internalID: -189199061447834973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 950
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd8b7414067d8f00800000000000000
+      internalID: 1120681642180709835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 950
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ef6140c1d7bc130800000000000000
+      internalID: 3588099087411904115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 950
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744202f6679165470800000000000000
+      internalID: 8382915752857969735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_6
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 950
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995996ee207391f0800000000000000
+      internalID: -1039363742252836452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_7
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 950
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b2d27d6fa3b5a0800000000000000
+      internalID: -6506664152007526606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_8
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 950
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02a956b21439a40800000000000000
+      internalID: 5373710435027132652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_9
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 950
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e723b836552e8970800000000000000
+      internalID: 8758979377530873827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_10
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 950
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf26ae077b6801630800000000000000
+      internalID: 3895761800107025148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_11
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 950
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e20d886f32aadf0800000000000000
+      internalID: -168282494308700595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_12
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 950
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f634594ae4c198070800000000000000
+      internalID: 8109043728151561071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_13
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 950
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7253706b3335b6c0800000000000000
+      internalID: -4128337153300934017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_14
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 950
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424a3bf9174a9940800000000000000
+      internalID: 5303629688096834121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 764
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d388424c6cbf60800000000000000
+      internalID: 8051429265771845859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 764
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc89251893a8db0800000000000000
+      internalID: -4788952026155791192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 764
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af9c43acb202fbb0800000000000000
+      internalID: -4903854035036233815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 764
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b258a2a63877e290800000000000000
+      internalID: -7861182448499404109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 764
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254bc811c3dc8670800000000000000
+      internalID: 8542435419513111852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 764
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a8f04bc99e5d60800000000000000
+      internalID: 7880905496192393864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_21
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 764
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91cae10e3337da00800000000000000
+      internalID: 781149401785221535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 764
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a897b012c970d8cd0800000000000000
+      internalID: -2554377046498510454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_23
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 764
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664052b34d9a01230800000000000000
+      internalID: 3607570030514209894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_24
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 764
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c97933a2db1ba20800000000000000
+      internalID: 3076448009422609499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_25
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 764
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582c97547e250c80800000000000000
+      internalID: -8357222456295151528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_26
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 764
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523cd4b353aef4a0800000000000000
+      internalID: -6557624427492920740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_27
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 764
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62caaf0bedc7553a0800000000000000
+      internalID: -6677293576613090266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_28
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 764
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbc74d95e9fb2880800000000000000
+      internalID: -8634533095971238988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_29
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 764
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddfbc73188c496b0800000000000000
+      internalID: -5290383204941038124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 578
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677687a5e2e9a7ad0800000000000000
+      internalID: -2703674704359037066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 578
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb976be2ebab4d40800000000000000
+      internalID: 5569734355274144718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 578
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148a92e2c9cae36a0800000000000000
+      internalID: -6467542228068095935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 578
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f55ff6bede0e890800000000000000
+      internalID: -7430677789709869167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 578
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1227c44193147bb80800000000000000
+      internalID: -8379156868290022879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_35
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 578
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78337229c5668dab0800000000000000
+      internalID: -4983120439910386809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_36
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 578
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f710d9287986db0800000000000000
+      internalID: -4798418815727599800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_37
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 578
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2acab8bed3317950800000000000000
+      internalID: 6444989573418895914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_38
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 578
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc1975dd673de90800000000000000
+      internalID: -7002122302601966431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_39
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 578
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c491833ba86240800000000000000
+      internalID: 4785262841786844989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_40
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 578
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b4d2885eb4a2f0800000000000000
+      internalID: -962435132989066877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_41
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 578
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03b53be84aaed10800000000000000
+      internalID: 2155716304451612921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_42
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 578
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea1aca358430390800000000000000
+      internalID: -7853353800988250567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_43
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 578
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e775bc1f363092b0800000000000000
+      internalID: -5579900293619550231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_44
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 578
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25724e28d59c644b0800000000000000
+      internalID: -5456452495047645358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 393
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3934dec6369a43790800000000000000
+      internalID: -7551224430699134061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 393
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89e6f7c7172ae7e0800000000000000
+      internalID: -1735531723305326195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 393
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564a49b53c8e1300800000000000000
+      internalID: 224771193784911449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_48
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 393
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ec2649b28e11a90800000000000000
+      internalID: -7344834243393827215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_49
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 393
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f29e51717a8c1380800000000000000
+      internalID: -8999165735555132680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_50
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 393
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c99401eb6fab5f0800000000000000
+      internalID: -740007892571546520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_51
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 393
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a431fa237986c50800000000000000
+      internalID: 6658738293008714347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_52
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 393
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b90bdbd96377b30800000000000000
+      internalID: 4284953621586549543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_53
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 393
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751fb9f79ffe1190800000000000000
+      internalID: -7989667660713486980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_54
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 393
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67837a8e12e8c60b0800000000000000
+      internalID: -5734051949261145994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_55
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 393
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436399e26c48c0db0800000000000000
+      internalID: -4824335114100459980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_56
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 393
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e66c947b9cc2f0800000000000000
+      internalID: -951214496139516651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_57
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 393
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17620d986fa4538e0800000000000000
+      internalID: -1714381660410075535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_58
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 393
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09493e74752bfc10800000000000000
+      internalID: 2088304034480474378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_59
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 393
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb15ea16c37086d0800000000000000
+      internalID: -2990262857882067971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 205
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19125bd9ba8f7bf10800000000000000
+      internalID: 2285568751882805649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 205
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ffab48cf90b260800000000000000
+      internalID: 7111359494230112274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_62
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 205
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9e940dac3e388f0800000000000000
+      internalID: -539337070136923652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_63
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 205
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40de1805d01be60800000000000000
+      internalID: 7976171054478197960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_64
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 205
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6fa065757492d0800000000000000
+      internalID: -3272861882197775296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_65
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 205
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc66152c7db2bff0800000000000000
+      internalID: -21746707287610149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_66
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 205
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b939299a4a542d5b0800000000000000
+      internalID: -5345133234213448805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_67
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 205
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c683146421e6c40800000000000000
+      internalID: 5507359487271922721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_68
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 205
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88fff32cdbc1380800000000000000
+      internalID: -8999109313398077232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_69
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 205
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459c8a0ebb7616c0800000000000000
+      internalID: -4173011948561197759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_70
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 205
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba575cbaa0cde310800000000000000
+      internalID: 1436015695737871025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_71
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 205
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0561fad7c6abf470800000000000000
+      internalID: 8429514504855971084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_72
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 205
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b71d33b47a973f50800000000000000
+      internalID: 6861122383336249266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_73
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 205
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d1feb95fd3b2a00800000000000000
+      internalID: 732747489470258576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_74
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 205
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2fe5ef6432b2620800000000000000
+      internalID: 2750330785262138108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 19
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6e24ed016c1fe40800000000000000
+      internalID: 5688545580096349919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_76
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 19
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d0ddcb20194d90800000000000000
+      internalID: -7113136356132334304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_77
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 19
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e65202b5074ed70800000000000000
+      internalID: 9071499086114680364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_78
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 19
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a28b25006aa2b30800000000000000
+      internalID: 4263402517577607709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_79
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 19
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842190d2959639b20800000000000000
+      internalID: 3139969196935942728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_80
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 19
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b2a99592d75cb0800000000000000
+      internalID: -4875196531635735794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_81
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 19
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceee97f51b6eaf60800000000000000
+      internalID: 8047487326250528458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_82
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 19
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f38a8cb13aa5450800000000000000
+      internalID: 6078349986815819630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_83
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 19
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98434a9082ea9dea0800000000000000
+      internalID: -5847451154180197239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_84
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 19
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf0d1bce7950620800000000000000
+      internalID: 2739762991176154002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_85
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 19
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972d34cb0a4bf320800000000000000
+      internalID: 2592747424879290266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_86
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 19
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90670bc92987885e0800000000000000
+      internalID: -1907141871102036471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_87
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 19
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1028b79138f6e63d0800000000000000
+      internalID: -3211506875409661439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saldiri_88
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 19
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f92511455a7d0cb0800000000000000
+      internalID: -4896122713299146253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

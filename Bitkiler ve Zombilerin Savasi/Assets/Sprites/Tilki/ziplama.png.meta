@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: c847a72ff38414943b7ab1f9bfdeecb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -971822464540672243
+    second: ziplama_0
+  - first:
+      213: -4443822926084863383
+    second: ziplama_1
+  - first:
+      213: -6011684065993513453
+    second: ziplama_2
+  - first:
+      213: 2059704510723116820
+    second: ziplama_3
+  - first:
+      213: 6157271089378619938
+    second: ziplama_4
+  - first:
+      213: -1079805181746599526
+    second: ziplama_5
+  - first:
+      213: 943806061348288329
+    second: ziplama_6
+  - first:
+      213: -8834620755245443673
+    second: ziplama_7
+  - first:
+      213: -1203943226393462355
+    second: ziplama_8
+  - first:
+      213: -2442530709111852114
+    second: ziplama_9
+  - first:
+      213: 119123784779374907
+    second: ziplama_10
+  - first:
+      213: -8119341576195689496
+    second: ziplama_11
+  - first:
+      213: -2065903484904383669
+    second: ziplama_12
+  - first:
+      213: -2456730203045915256
+    second: ziplama_13
+  - first:
+      213: 165710091550923066
+    second: ziplama_14
+  - first:
+      213: 1691527231053905541
+    second: ziplama_15
+  - first:
+      213: -5194576326021058839
+    second: ziplama_16
+  - first:
+      213: -6114321159280863999
+    second: ziplama_17
+  - first:
+      213: -8756377724729794001
+    second: ziplama_18
+  - first:
+      213: -5870462966347405630
+    second: ziplama_19
+  - first:
+      213: -7830941017607800409
+    second: ziplama_20
+  - first:
+      213: -3835120480583442527
+    second: ziplama_21
+  - first:
+      213: 1793484950484864644
+    second: ziplama_22
+  - first:
+      213: -1328684337667632766
+    second: ziplama_23
+  - first:
+      213: 7663837667482643710
+    second: ziplama_24
+  - first:
+      213: -3457076996409429378
+    second: ziplama_25
+  - first:
+      213: 4032314598547771923
+    second: ziplama_26
+  - first:
+      213: 6010232470780548992
+    second: ziplama_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ziplama_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ffe401e946382f0800000000000000
+      internalID: -971822464540672243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a89f5d79e5452c0800000000000000
+      internalID: -4443822926084863383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a4987135329ca0800000000000000
+      internalID: -6011684065993513453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fcbe7f65a859c10800000000000000
+      internalID: 2059704510723116820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f134ee65037550800000000000000
+      internalID: 6157271089378619938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 556
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a992e5388e2c301f0800000000000000
+      internalID: -1079805181746599526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947768fbc92191d00800000000000000
+      internalID: 943806061348288329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a55d4e1b3f156580800000000000000
+      internalID: -8834620755245443673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9741da30cba4fe0800000000000000
+      internalID: -1203943226393462355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b76ad2436a1ed0800000000000000
+      internalID: -2442530709111852114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31231c737637a100800000000000000
+      internalID: 119123784779374907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3bbc4cadd425f80800000000000000
+      internalID: -8119341576195689496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b5802e9bf6453e0800000000000000
+      internalID: -2065903484904383669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885997a85e0f7edd0800000000000000
+      internalID: -2456730203045915256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3917964378bc4200800000000000000
+      internalID: 165710091550923066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3ed6fd03897710800000000000000
+      internalID: 1691527231053905541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee6cd08a5829e7b0800000000000000
+      internalID: -5194576326021058839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d86afc41952ba0800000000000000
+      internalID: -6114321159280863999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2266564ad81b7680800000000000000
+      internalID: -8756377724729794001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e6cff80de78ea0800000000000000
+      internalID: -5870462966347405630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9737472a8e25390800000000000000
+      internalID: -7830941017607800409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af9ff30e3ae6cac0800000000000000
+      internalID: -3835120480583442527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ec8a76f0db3e810800000000000000
+      internalID: 1793484950484864644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28112b272a09f8de0800000000000000
+      internalID: -1328684337667632766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcaf8af0cb6b5a60800000000000000
+      internalID: 7663837667482643710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7277d3c9cef500d0800000000000000
+      internalID: -3457076996409429378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312df0563c8a5f730800000000000000
+      internalID: 4032314598547771923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ziplama_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087946ea692a86350800000000000000
+      internalID: 6010232470780548992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
